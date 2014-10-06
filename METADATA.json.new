@@ -1,0 +1,33 @@
+{
+  "name": "Mr Dafoe",
+  "designer": "Sudtipos",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Handwriting",
+  "size": 24726,
+  "fonts": [
+    {
+      "name": "Mr Dafoe",
+      "style": "normal",
+      "weight": 400,
+      "filename": "MrDafoe-Regular-TTF.ttf",
+      "postScriptName": "MrDafoe-Regular",
+      "fullName": "MrDafoe-Regular",
+      "copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\nwith Reserved Font Name \"Mr Dafoe\""
+    },
+    {
+      "name": "Mr Dafoe",
+      "style": "normal",
+      "weight": 400,
+      "filename": "MrDafoe-Regular.ttf",
+      "postScriptName": "MrDafoe-Regular",
+      "fullName": "Mr Dafoe Regular",
+      "copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Mr Dafoe\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-11-30"
+}
